@@ -1,4 +1,3 @@
-Sorting algos
 #include <stdio.h>
 #include <stdlib.h>
 
